@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #bfe745;
+    color: rgb(8, 9, 8);
+    font-family: 'Courier New', monospace;
+    font-size: 5em;
+  }
